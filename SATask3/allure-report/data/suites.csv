@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 11 14:40:07 EST 2023","Wed Jan 11 14:40:08 EST 2023","1644","","Sign Up","","Sign Up","Validate login ","Validate login ",""
+"passed","Wed Jan 11 14:39:26 EST 2023","Wed Jan 11 14:40:06 EST 2023","39347","","Sign Up","","Sign Up","Add task and Edit task test","Add task and Edit task test",""
+"passed","Wed Jan 11 14:40:06 EST 2023","Wed Jan 11 14:40:06 EST 2023","676","","Sign Up","","Sign Up","View tasks after deleting all except one task","View tasks after deleting all except one task",""
+"passed","Wed Jan 11 14:39:24 EST 2023","Wed Jan 11 14:39:26 EST 2023","2386","","Sign Up","","Sign Up","Validate SignUp page","Validate SignUp page",""
+"passed","Wed Jan 11 14:40:06 EST 2023","Wed Jan 11 14:40:07 EST 2023","145","","Sign Up","","Sign Up","Validate logout ","Validate logout ",""
+"passed","Wed Jan 11 14:40:06 EST 2023","Wed Jan 11 14:40:06 EST 2023","150","","Sign Up","","Sign Up","Delete task leaving 1 task","Delete task leaving 1 task",""
