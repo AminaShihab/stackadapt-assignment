@@ -1,0 +1,17 @@
+Following errors noted on the web page. Please see the highlited area in PDF
+
+1. $ 100  : has extra space
+
+The location selected above is UK, so the following currency changes recommended
+
+2. $317>>  : This  should be pound .
+3. $393 : This should be pound, and missing the '>>' icon
+4. 499>> : This should be pound instead of euro
+5. $153>> : This should be pound
+
+6. Differnt Language. It should be in English
+7. The date format can be standardized
+8. HOTELS should not be under TRAIN
+9. EURAIL should not be under ACCOMMODATION
+10. The age selector does not need to start  with 0 when the adults age is 27+
+(or else the standard format is infants, child +2, Adults can be followed
